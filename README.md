@@ -1,10 +1,10 @@
-# Multimodal Semantic Decoupling Prompting for Zero-Shot Referring Expression Comprehension
+# Multimodal Semantic Decoupled Prompting for Zero-Shot Referring Expression Comprehension
 
-Official Codes for Multimodal Semantic Decoupling Prompting for Zero-Shot Referring Expression Comprehension.
+Official Codes for Multimodal Semantic Decoupled Prompting for Zero-Shot Referring Expression Comprehension.
 
 ![Farmework of MSDP.](./assist/Framework_MSDP.png)
 
-Framework of Multimodal Semantic Decoupling Prompting.
+Framework of Multimodal Semantic Decoupled Prompting.
 
 ## Requirement
 
