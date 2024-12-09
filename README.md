@@ -2,7 +2,7 @@
 
 Official Codes for Multimodal Semantic Decoupled Prompting for Zero-Shot Referring Expression Comprehension.
 
-![Farmework of MSDP.](./assist/Framework_MSDP.png)
+![Farmework of MSDP.](./assist/Framework_MSDP_v1.png)
 
 Framework of Multimodal Semantic Decoupled Prompting.
 
