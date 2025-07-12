@@ -59,7 +59,7 @@ If you find this work useful, consider giving this repository a star ⭐️ and 
 
 ```bibtex
 
-@inproceedings{zeng2025local,
+@inproceedings{zhang2025msdp,
 
   title={Multimodal Semantic Decoupled Prompting for Zero-Shot Referring Expression Comprehension},
 
