@@ -16,7 +16,7 @@ This repo is the official implementation of ECAI 2025 paper: Multimodal Semantic
 
 ### **What is the challenging problem for zero-shot REC?**
 
-Large-scale Vision-Language Models~(VLMs) have demonstrated impressive zero-shot performance in sample-level downstream tasks~(e.g., image classification), driven by their powerful generalization ability. However, they still struggle in **instance-level tasks, e.g., zero-shot Referring Expression Comprehension~(REC)**, which requires precisely locating the target instance in an image based on a provided text caption.
+Large-scale Vision-Language Models (VLMs) have demonstrated impressive zero-shot performance in sample-level downstream tasks (e.g., image classification), driven by their powerful generalization ability. However, they still struggle in **instance-level tasks, e.g., zero-shot Referring Expression Comprehension (REC)**, which requires precisely locating the target instance in an image based on a provided text caption.
 
 ## 📖 Overview
 
