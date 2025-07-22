@@ -43,13 +43,10 @@ This repository needs RefCOCO, RefCOCO+, and RefCOCOg. All datasets are supposed
 
 ### Inference
 
-The training script is in `Local-Prompt/scripts/train.sh`, you can alter the parameters in the script file.
-
-e.g., 4-shot training with ViT-B/16
 
 ```
 
-CUDA_VISIBLE_DEVICES=0 sh scripts/train.sh data imagenet vit_b16_ep30 end 16 4 True 5 0.5 50
+CUDA_VISIBLE_DEVICES=0 python cmds/MSDP.py
 
 ```
 
